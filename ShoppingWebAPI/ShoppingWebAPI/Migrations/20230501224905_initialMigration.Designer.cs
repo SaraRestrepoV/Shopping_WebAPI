@@ -12,7 +12,7 @@ using ShoppingWebAPI.DAL;
 namespace ShoppingWebAPI.Migrations
 {
     [DbContext(typeof(DataBaseContext))]
-    [Migration("20230501221017_initialMigration")]
+    [Migration("20230501224905_initialMigration")]
     partial class initialMigration
     {
         /// <inheritdoc />
